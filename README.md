@@ -1,6 +1,6 @@
 <h1>TorBox's Privacy Policy</h1>
 
-<p>This document is the official and most updated version of the privacy policy. This document was last updated Friday, Janurary 12, 2024 and is in effect Friday, Janurary 12, 2024. This document can be found at <a href="https://github.com/TorBox-App/hosted-privacy_policy" target="_blank">https://github.com/TorBox-App/hosted-privacy_policy</a> and <a href="https://torbox.app/privacy" target="_blank">https://torbox.app/privacy</a> where it is mirrored between sites.</p>
+<p>This document is the official and most updated version of the privacy policy. This document was last updated Sunday, September 8, 2024 and is in effect Friday, Janurary 12, 2024. This document can be found at <a href="https://github.com/TorBox-App/hosted-privacy_policy" target="_blank">https://github.com/TorBox-App/hosted-privacy_policy</a> and <a href="https://torbox.app/privacy" target="_blank">https://torbox.app/privacy</a> where it is mirrored between sites.</p>
 
 <p><strong>We are TorBox ("we", "us", "TorBox") operate https://torbox.app as well as any other related products and services that refer or link to these terms (collectively the "services" or "service").</strong></p>
 
@@ -24,7 +24,7 @@
 <li>Analytics information. We use SimpleAnalytics for analytics, which is a privacy first analytics platform and only takes in your device model, and the browser you are on. Pretty neat right?</li>
 <li>Other than that, it's third parties. You can view them and their privacy policies below. We try and make smart choices about who we choose to partner with, but if you have any complaints about privacy, you will have to contact them.
   <ul>
-    <li>Stripe - Payments - https://stripe.com/privacy</li>
+    <li>Sellix - Payments - https://help.sellix.io/en/articles/4534109-privacy-and-cookie-policy</li>
     <li>PayPal - Payments - https://www.paypal.com/us/legalhub/privacy-full</li>
     <li>Coinbase Commerce - Payments - https://commerce.coinbase.com/legal/privacy-policy/</li>
     <li>Supabase - Database/Auth/Websockets - https://supabase.com/privacy</li>
@@ -36,7 +36,7 @@
     <li>Dropbox - OAuth - https://www.dropbox.com/privacy</li>
     <li>OneSignal - Mobile Push Notifications - https://onesignal.com/privacy_policy</li>
     <li>SendGrid - Emails - https://www.twilio.com/en-us/legal/privacy</li>
-    <li>Chatwoot - Help Center/Support Widget on dashboard - https://www.chatwoot.com/privacy-policy/</li>
+    <li>Intercom - Help Center/Support Widget on dashboard - https://www.intercom.com/legal/privacy</li>
     <li>Discord - Discord Server Widget on dashboard - https://discord.com/privacy</li>
   </ul>
 </li>
@@ -47,6 +47,8 @@
 <h2 id="not-collected">Data TorBox does not collect</h2>
 
 <li>Your IP. No need to use a VPN with TorBox, or do, who cares?</li>
+
+<li>Your activity on TorBox. We don't store logs at all.</li>
 
 <li>Your location. That's basically just IP, but we thought we would mention it anyways.</li>
 
@@ -74,6 +76,6 @@
 
 <h2 id="erasure">Right to Erasure</h2>
 
-<p>Want your data deleted? No problem, simply contact us with your email and it will be gone ASAP. This will delete anything associated with your account, even including 3rd party data. This process is somewhat manual (we have scripts to do it faster) but you still have to contact us for us to run said scripts.</p>
+<p>Want your data deleted? No problem, either simple go to https://torbox.app/settings and click the "Delete Account" button under the "Account Section" or simply contact us with your email and it will be gone ASAP. This will delete anything associated with your account, even including 3rd party data.</p>
 
 <p>Data such as information about torrents are deleted as soon as you request your torrent to be deleted. This can be done on the dashboard, by clicking on the torrent, and clicking the delete button, or by the API.</p>
