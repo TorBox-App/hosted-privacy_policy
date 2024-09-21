@@ -1,6 +1,6 @@
 <h1>TorBox's Privacy Policy</h1>
 
-<p>This document is the official and most updated version of the privacy policy. This document was last updated Sunday, September 8, 2024 and is in effect Friday, Janurary 12, 2024. This document can be found at <a href="https://github.com/TorBox-App/hosted-privacy_policy" target="_blank">https://github.com/TorBox-App/hosted-privacy_policy</a> and <a href="https://torbox.app/privacy" target="_blank">https://torbox.app/privacy</a> where it is mirrored between sites.</p>
+<p>This document is the official and most updated version of the privacy policy. This document was last updated Saturday, September 21, 2024 and is in effect Friday, Janurary 12, 2024. This document can be found at <a href="https://github.com/TorBox-App/hosted-privacy_policy" target="_blank">https://github.com/TorBox-App/hosted-privacy_policy</a> and <a href="https://torbox.app/privacy" target="_blank">https://torbox.app/privacy</a> where it is mirrored between sites.</p>
 
 <p><strong>We are TorBox ("we", "us", "TorBox") operate https://torbox.app as well as any other related products and services that refer or link to these terms (collectively the "services" or "service").</strong></p>
 
@@ -17,10 +17,10 @@
 
 <h2 id="collected">Data TorBox collects</h2>
 
-<p>TorBox does not require personally identifiable information to register or use the service.</p>
+<p>TorBox does not require personally identifiable information to register or use the service. We also do not collect this personally identifiable information during your use of the service.</p>
 <p>As a TorBox user, at any point, TorBox may be retaining the following information about your account:</p>
 <li>Registration information. This includes email, hashed password and timestamps of account creation.</li>
-<li>Information about downloads. This one is a little complex so let's talk about it. When you add a torrent, we record the fact that you downloaded a torrent. This log stays in our database forever. It simply says "This user downloaded a torrent at this time". We don't permanently store torrent information. The information we do store in our database, or caches is metadata about the torrent. This includes information like name, hash, magnet link, download speed, upload speed, status and more. This information does not include anything about the user other than who started the download. When you delete a torrent all metadata about the torrent is deleted permanently. All that will be left is the record that you downloaded a torrent, like we explained a bit ago. The torrent data is available to you and to you only. TorBox does not look at or access your torrents without express permission (usually done in support tickets). Your torrents you download are for you and you alone. No one will ever know you downloaded it.</li>
+<li>Information about downloads. This one is a little complex so let's talk about it. When you add a torrent (or any other download type on our service), we record the fact that you downloaded a torrent. This log stays in our database forever. It simply says "This user downloaded a torrent at this time". We don't permanently store torrent information. The information we do store in our database, or caches is metadata about the torrent. This includes information like name, hash, magnet link, download speed, upload speed, status and more. This information does not include anything about the user other than who started the download. When you delete a torrent all metadata about the torrent is deleted permanently. All that will be left is the record that you downloaded a torrent, nothing more, like we explained a bit ago. The download data is available to you and to you only. TorBox does not look at or access your downloads without express permission (usually done in support tickets). Your downloads you create are for you and you alone. No one will ever know you downloaded it.</li>
 <li>Analytics information. We use SimpleAnalytics for analytics, which is a privacy first analytics platform and only takes in your device model, and the browser you are on. Pretty neat right?</li>
 <li>Other than that, it's third parties. You can view them and their privacy policies below. We try and make smart choices about who we choose to partner with, but if you have any complaints about privacy, you will have to contact them.
   <ul>
@@ -50,7 +50,7 @@
 
 <li>Your activity on TorBox. We don't store logs at all.</li>
 
-<li>Your location. That's basically just IP, but we thought we would mention it anyways.</li>
+<li>Your location. That's basically just your IP, but we thought we should mention it anyways.</li>
 
 <li>Your interests. No, we don't look at all the "Linux ISOs" you download to know what type of clothes you like to buy. We don't sell you ads. We don't care who you are, but we care about you <3.</li>
 
@@ -76,6 +76,6 @@
 
 <h2 id="erasure">Right to Erasure</h2>
 
-<p>Want your data deleted? No problem, either simple go to https://torbox.app/settings and click the "Delete Account" button under the "Account Section" or simply contact us with your email and it will be gone ASAP. This will delete anything associated with your account, even including 3rd party data.</p>
+<p>Want your data deleted? No problem, either go to <a href="https://torbox.app/settings" target="_blank">https://torbox.app/settings</a> and click the "Delete Account" button under the "Account Section" or simply contact us with your email and it will be gone as soon as possible. This deletion will remove anything associated with your account, even including 3rd party data.</p>
 
-<p>Data such as information about torrents are deleted as soon as you request your torrent to be deleted. This can be done on the dashboard, by clicking on the torrent, and clicking the delete button, or by the API.</p>
+<p>Data such as information about any download are deleted as soon as you request your download to be deleted. This can be done on the dashboard, by clicking on the download, and clicking the delete button, or by the API.</p>
