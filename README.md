@@ -1,6 +1,6 @@
 <h1>TorBox's Privacy Policy</h1>
 
-<p>This document is the official and most updated version of the privacy policy. This document was last updated Saturday, September 21, 2024 and is in effect Friday, Janurary 12, 2024. This document can be found at <a href="https://github.com/TorBox-App/hosted-privacy_policy" target="_blank">https://github.com/TorBox-App/hosted-privacy_policy</a> and <a href="https://torbox.app/privacy" target="_blank">https://torbox.app/privacy</a> where it is mirrored between sites.</p>
+<p>This document is the official and most updated version of the privacy policy. This document was last updated Wednesday, Janurary 1, 2025 and is in effect Friday, Janurary 12, 2024. This document can be found at <a href="https://github.com/TorBox-App/hosted-privacy_policy" target="_blank">https://github.com/TorBox-App/hosted-privacy_policy</a> and <a href="https://torbox.app/privacy" target="_blank">https://torbox.app/privacy</a> where it is mirrored between sites.</p>
 
 <p><strong>We are TorBox ("we", "us", "TorBox") operate https://torbox.app as well as any other related products and services that refer or link to these terms (collectively the "services" or "service").</strong></p>
 
@@ -8,14 +8,14 @@
 
 <h2>Table of Contents</h2>
 <li><a href="#collected">Data TorBox collects</a></li>
-<li><a href="#not-collected">Data TorBox does not collect</a></li>
-<li><a href="#sharing">Sharing of data</a></li>
-<li><a href="#data-use">Use of data</a></li>
+<li><a href="#not-collected">Data TorBox Does Not Collect</a></li>
+<li><a href="#sharing">Sharing of Data</a></li>
+<li><a href="#data-use">Use of Data</a></li>
 <li><a href="#erasure">Right to Erasure</a></li>
 
 <br/>
 
-<h2 id="collected">Data TorBox collects</h2>
+<h2 id="collected">Data TorBox Collects</h2>
 
 <p>TorBox does not require personally identifiable information to register or use the service. We also do not collect this personally identifiable information during your use of the service.</p>
 <p>As a TorBox user, at any point, TorBox may be retaining the following information about your account:</p>
@@ -25,16 +25,13 @@
 <li>Other than that, it's third parties. You can view them and their privacy policies below. We try and make smart choices about who we choose to partner with, but if you have any complaints about privacy, you will have to contact them.
   <ul>
     <li>Sellix - Payments - https://help.sellix.io/en/articles/4534109-privacy-and-cookie-policy</li>
-    <li>PayPal - Payments - https://www.paypal.com/us/legalhub/privacy-full</li>
-    <li>Coinbase Commerce - Payments - https://commerce.coinbase.com/legal/privacy-policy/</li>
-    <li>Supabase - Database/Auth/Websockets - https://supabase.com/privacy</li>
+    <li>Chargebee - Payments - https://www.chargebee.com/privacy/</li>
+    <li>Supabase - Database/Auth - https://supabase.com/privacy</li>
     <li>SimpleAnalytics - Analytics - https://simpleanalytics.com/privacy-policy</li>
     <li>Featurebase - Feature Requests/Changelog Widget on dashboard - https://www.featurebase.app/privacy-policy</li>
     <li>Cloudflare - DNS and Hosting - https://www.cloudflare.com/privacypolicy/</li>
     <li>Google - OAuth - https://policies.google.com/privacy</li>
     <li>Azure/Microsoft - OAuth - https://privacy.microsoft.com/en-us/privacystatement</li>
-    <li>Dropbox - OAuth - https://www.dropbox.com/privacy</li>
-    <li>OneSignal - Mobile Push Notifications - https://onesignal.com/privacy_policy</li>
     <li>SendGrid - Emails - https://www.twilio.com/en-us/legal/privacy</li>
     <li>Intercom - Help Center/Support Widget on dashboard - https://www.intercom.com/legal/privacy</li>
     <li>Discord - Discord Server Widget on dashboard - https://discord.com/privacy</li>
@@ -44,7 +41,7 @@
 
 <br/>
 
-<h2 id="not-collected">Data TorBox does not collect</h2>
+<h2 id="not-collected">Data TorBox Does Not Collect</h2>
 
 <li>Your IP. No need to use a VPN with TorBox, or do, who cares?</li>
 
@@ -56,13 +53,13 @@
 
 <br/>
 
-<h2 id="sharing">Sharing of data</h2>
+<h2 id="sharing">Sharing of Data</h2>
 
 <p>We don't sell your data, however little that may be, to any third parties or to ourselves. Your secrets are safe with us. We do in fact share some data with third parties, but we keep it to a minimum. At max, it is your email and internal user ID, but usually it is nothing.</p>
 
 <br/>
 
-<h2 id="data-use">Use of data</h2>
+<h2 id="data-use">Use of Data</h2>
 
 <p>TorBox uses the above collected data for the following uses:</p>
 <li>Registration data allows you to log in and access your account from any device. Pretty simple.</li>
@@ -76,6 +73,6 @@
 
 <h2 id="erasure">Right to Erasure</h2>
 
-<p>Want your data deleted? No problem, either go to <a href="https://torbox.app/settings" target="_blank">https://torbox.app/settings</a> and click the "Delete Account" button under the "Account Section" or simply contact us with your email and it will be gone as soon as possible. This deletion will remove anything associated with your account, even including 3rd party data.</p>
+<p>Want your data deleted? No problem, either go to <a href="https://torbox.app/settings" target="_blank">https://torbox.app/settings</a> and click the "Delete Account" button under the "Account Section" or simply contact us with your email and it will be gone as soon as possible. This deletion will remove anything associated with your account. To remove any third party data associated with your account, you must contact the respective part to have it removed.</p>
 
 <p>Data such as information about any download are deleted as soon as you request your download to be deleted. This can be done on the dashboard, by clicking on the download, and clicking the delete button, or by the API.</p>
